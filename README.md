@@ -16,6 +16,7 @@ A simple custom cursor built using *HTML, CSS, and JavaScript*. The cursor follo
 * No external libraries
 
 ### 🔗 Live Demo
+https://github.com/Shahnawaz-py/Custom-Cursor
 
 
 ### 👨‍💻 Author
