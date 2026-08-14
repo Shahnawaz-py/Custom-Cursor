@@ -1,0 +1,32 @@
+* {
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+html, body {
+    height: 100%;
+    width: 100%
+}
+
+#main {
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cursor {
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: yellow;
+    position: absolute;
+    transition: all ease 0.2s;
+}
+
+h1 {
+    font-size: 9vmax;
+    font-weight: 900;
+}
